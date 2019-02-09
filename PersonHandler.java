@@ -26,7 +26,6 @@ public class PersonHandler {
                 String somePerson = personArray[counter].toString();
                 result += somePerson;
                 
-                System.out.println(personArray[counter]);
                 counter++;
             }
             
